@@ -1,0 +1,13 @@
+:root {
+  /** default */
+  --default-background-color: #4062bb;
+  --default-font-color: #5d737e;
+
+  /** light */
+  --light-background-color: #7e7f9a;
+  --light-font-color: #f6f2ff;
+
+  /** dark */
+  --dark-background-color: #52489c;
+  --dark-font-size: #4b5358;
+}

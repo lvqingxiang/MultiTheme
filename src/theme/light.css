@@ -1,0 +1,4 @@
+.light {
+  --background-color: var(--light-background-color);
+  --font-color: var(--light-font-color);
+}

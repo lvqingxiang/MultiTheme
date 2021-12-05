@@ -1,0 +1,4 @@
+.default {
+  --background-color: var(--default-background-color);
+  --font-color: var(--default-font-color);
+}
