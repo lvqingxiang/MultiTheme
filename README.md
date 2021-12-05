@@ -214,7 +214,7 @@
    }
    ```
 
-   <img src="https://github.com/lvqingxiang/MultiTheme/blob/main/resources/1.png" />
+   <img src="https://github.com/lvqingxiang/MultiTheme/blob/main/resources/2.png" />
 
    切换`radio`按钮样式将会造成按照主题色进行改变
 
@@ -282,7 +282,7 @@
    };
    ```
 
-   <img src="https://github.com/lvqingxiang/MultiTheme/blob/main/resources/1.png" />
+   <img src="https://github.com/lvqingxiang/MultiTheme/blob/main/resources/3.png" />
 
    #### 方案二
 
@@ -325,4 +325,4 @@
 
 ​		重新启动项目，因为`config-overrides.js`是预编译，不会引发热更新，重新启动项目，即可看到效果。
 
-<img src="https://github.com/lvqingxiang/MultiTheme/blob/main/resources/1.png" />
+<img src="https://github.com/lvqingxiang/MultiTheme/blob/main/resources/4.png" />
