@@ -10,7 +10,7 @@
   - `npm run start`
   - `npm install antd --save`
 
-<img src="./resources/截屏2021-12-04 上午10.15.51.png" alt="截屏2021-12-04 上午10.15.51" />
+<img src="https://github.com/lvqingxiang/MultiTheme/blob/main/resources/1.png" />
 
 #### 方案一
 
@@ -214,7 +214,7 @@
    }
    ```
 
-   ![截屏2021-12-04 下午9.52.53](./resources/截屏2021-12-04 下午9.52.53.png)
+   <img src="https://github.com/lvqingxiang/MultiTheme/blob/main/resources/1.png" />
 
    切换`radio`按钮样式将会造成按照主题色进行改变
 
@@ -282,7 +282,7 @@
    };
    ```
 
-    ![截屏2021-12-05 上午9.43.18](./resources/截屏2021-12-05 上午9.43.18.png)
+   <img src="https://github.com/lvqingxiang/MultiTheme/blob/main/resources/1.png" />
 
    #### 方案二
 
@@ -325,4 +325,4 @@
 
 ​		重新启动项目，因为`config-overrides.js`是预编译，不会引发热更新，重新启动项目，即可看到效果。
 
-![截屏2021-12-05 上午10.26.06](./resources/截屏2021-12-05 上午10.26.06.png)
+<img src="https://github.com/lvqingxiang/MultiTheme/blob/main/resources/1.png" />
